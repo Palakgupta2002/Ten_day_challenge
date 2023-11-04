@@ -13,6 +13,9 @@
     border-top-right-radius:20px ;
     border-top-left-radius:20px ;
     height: 120px;
+    margin-top: -40px;
+    
+    
 }
 .Numbers{
     display: grid;
@@ -73,3 +76,47 @@
 
    
 }
+.inputvalue{
+    text-align:right ;
+        padding: 15px;
+         max-width: 100%;
+          overflow: hidden;
+           white-space: normal;
+            word-wrap: break-word;
+             font-size: 30px;
+             max-height:50%;
+}
+/* For small screens (phones) */
+/* Default styles for all screens */
+.OutPutScreen h3 {
+    /* Your existing styles here */
+    font-size: 30px;
+    max-height: 60px; /* Set a maximum height */
+    overflow: hidden;
+  }
+  
+  /* Styles for small screens (phones) */
+  @media only screen and (max-width: 600px) {
+    .OutPutScreen h3 {
+      font-size: 20px; /* Adjust font size for smaller screens */
+      max-height: 40px; /* Adjust maximum height for smaller screens */
+    }
+  }
+  
+  /* Styles for medium-sized screens (tablets) */
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    .OutPutScreen h3 {
+      font-size: 25px; /* Adjust font size for tablets */
+      max-height: 50px; /* Adjust maximum height for tablets */
+    }
+  }
+  
+  /* Styles for large screens (desktops) */
+  @media only screen and (min-width: 1025px) {
+    .OutPutScreen h3 {
+      font-size: 30px; /* Reset font size for larger screens if needed */
+      max-height: 60px; /* Reset maximum height for larger screens if needed */
+    }
+  }
+  
+  
