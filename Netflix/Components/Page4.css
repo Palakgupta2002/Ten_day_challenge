@@ -1,0 +1,50 @@
+.Page4Gridient {
+  -webkit-text-size-adjust: 100%;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  background: rgb(0 0 0 / 40%);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: 'white';
+  border-top: 8px solid gray;
+  margin-top: 1700px;
+  column-gap: 0px;
+  display: flex;
+  justify-content: space-evenly;
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8) 0,
+    rgba(0, 0, 0, 0) 60%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  padding-top: 8%;
+}
+.Page4h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+.Page4h4 {
+  font-size: 25px;
+  margin-top: -20px;
+  font-weight: 400;
+}
+.text {
+  margin-top: 25px;
+}
+.gif2 {
+    -webkit-text-size-adjust: 100%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    color: rgb(255,255,255);
+    text-align: center;
+    z-index: -1;
+    overflow: hidden;
+  margin-left: 220px;
+  margin-top: -220px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}

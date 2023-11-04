@@ -1,0 +1,55 @@
+.Page3{
+    border: 2px solid red;
+}
+.Page3Gridient{
+    -webkit-text-size-adjust: 100%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    color: rgb(255,255,255);
+    text-align: left;
+    background: rgb(0 0 0 / 40%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+    margin-top: 1100px;
+    display: flex;
+    border-top: 10px solid rgb(34, 33, 33);
+    justify-content: space-around;
+    height: 400px;
+    padding-top: 100px;
+    }
+    .page3h1{
+       font-weight: 900;
+       
+        font-size: 45px;
+    }
+    .page3h12{
+        font-size: 30px;
+        font-weight: 400;
+        margin-top: -10px;
+    }
+    .DownloadImage{
+        width: 270px;
+        height: 100px;
+        -webkit-text-size-adjust: 100%;
+        font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+        color: rgb(255,255,255);
+        text-align: center;
+        background:black;
+        position: absolute;
+        top: 67%;
+        right: 0;
+        bottom: 0;
+        left: 14%;
+        
+        border: 2px solid gray;
+        border-radius: 15px;
+        display: flex;
+
+    }
+    .Downloadicon{
+        padding-top:"10px";
+        background:"transparent";
+    }

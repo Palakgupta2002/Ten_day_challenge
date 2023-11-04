@@ -1,0 +1,52 @@
+.Page1 {
+    background-image: url("../Assest/Background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-top: -20px;
+   
+}
+.Page1Gridient{
+-webkit-text-size-adjust: 100%;
+font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+color: rgb(255,255,255);
+text-align: center;
+background: rgb(0 0 0 / 40%);
+position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+}
+.Header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Button{
+    background-color: red;
+    padding: 8px;
+    color: white;
+    width: fit-content;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 5px;
+    border: transparent;
+    text-wrap: nowrap;
+}
+.SelectLang{
+    width: 120px;
+    height: 30px;
+    background-color: transparent;
+    color: white;
+    font-size: 18px;
+}
+.Logodiv{
+    margin-left: -50px;
+}
+.Selectdiv{
+    margin-top: 30px;
+    margin-left:120px;
+}
+

@@ -1,0 +1,20 @@
+.Page5Gridient{
+    -webkit-text-size-adjust: 100%;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    color: rgb(255,255,255);
+    text-align: left;
+    background: rgb(0 0 0 / 40%);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+   color:"white";
+   border-top: 8px solid gray;
+   margin-top: 2200px;
+ column-gap: 0px;
+   display: flex;
+   justify-content: space-evenly;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%);
+    padding-top: 8%;
+    }

@@ -1,0 +1,60 @@
+.Page6Gridient {
+  -webkit-text-size-adjust: 100%;
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  background: rgb(0 0 0 / 40%);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: 'white';
+  border-top: 8px solid gray;
+  margin-top: 2800px;
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8) 0,
+    rgba(0, 0, 0, 0) 60%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  padding-top: 8%;
+}
+.InfoBox {
+  display: flex;
+  margin-left: 10%;
+  width: 80%;
+  height: 90px;
+  background-color: #2d2d2d;
+  border: 2px solid black;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  position: relative;
+}
+
+.InfoBox > div > h2 {
+  padding-left: 30px;
+}
+
+.buttondesign {
+  background: none;
+  color: white;
+  border: none;
+  padding-right: 30px;
+}
+.InfoAnswer {
+ padding-left: 10px;
+  top: 100%;
+  z-index: 1000;
+  margin-left: 10%;
+  width: 79.2%;
+  height: fit-content;
+  background-color: #2d2d2d;
+  border: 2px solid black;
+  justify-content: left !important;
+}
+.InfoAnswer>h2{
+    text-align: left !important;
+}

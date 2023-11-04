@@ -1,0 +1,17 @@
+.Page7{
+    margin-top:3200px ;
+    border-top: 8px solid gray;
+    padding-top: 90px;
+}
+.ulList{
+    display:flex;
+    color:"white";
+    justify-content:space-evenly;
+    color: white;
+   
+}
+.ulList>div>ul>li{
+    margin-top: 14px;
+    list-style: none;
+   text-decoration: underline;
+}
