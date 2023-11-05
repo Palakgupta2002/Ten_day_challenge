@@ -1,0 +1,71 @@
+.SignUpPage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SignUpBox {
+    width: 300px;
+    height: fit-content;
+   padding: 20px;
+   border: 6px solid blue;
+   border-radius: 6%;
+    margin-top: -50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+/* Media query for screens up to 768px wide (e.g., mobile devices) */
+@media screen and (max-width: 768px) {
+    .SignUpBox {
+        width: 90%; /* Adjust the width for smaller screens */
+        margin-top: 20px; /* Modify the margin for better spacing */
+    }
+}
+
+/* Media query for screens between 769px and 1024px wide (e.g., tablets) */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .SignUpBox {
+        width: 60%; /* Adjust the width for tablets */
+        margin-top: 80px; /* Modify the margin for tablets */
+    }
+}
+
+/* Media query for screens 1025px wide and above (e.g., desktop) */
+@media screen and (min-width: 1025px) {
+    .SignUpBox {
+        width: 300px; /* Reset the width for desktop screens */
+        margin-top: 130px; /* Reset the margin for desktop screens */
+    }
+}
+.SignUpBox>form>input{
+    width: 80%;
+	height: 20px;
+	margin: 20px auto;
+	padding: 10px;
+	border: none;
+	outline: none;
+	border-radius: 0px;
+	background-color: none;
+	border-bottom: 0.5px solid blue;
+	background: none;
+    background: transparent;
+	color: rgb(42, 38, 38);
+
+  
+}
+.SignUpBox>form{
+    margin-left: 20px;
+   font-size: 20px;
+   color: gray;
+}
+.signbutton{
+   margin-left: 60px;
+    width: 50%;
+    color: white;
+    background-color: blue;
+    height: 40px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 4%;
+    font-size: 20px;
+}

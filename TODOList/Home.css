@@ -1,0 +1,106 @@
+.Profile{
+    display: flex;
+    margin-top: 40px;
+    gap: 30px;
+
+    
+}
+.Profile>img{
+    border-radius: 60%;
+    border: 2px solid rgb(22, 22, 135);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+}
+.Type{
+    border: 2px solid red;
+}
+.CreateBox{
+    width: 24%;
+    height: fit-content;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    padding: 20px;
+}
+.Home{
+    margin-left: 30px;
+}
+.CreateTask{
+    width: 100%;
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border: none;
+   
+}
+.ShowTask{
+    width: 92%;
+    height: 140px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    padding-left: 20px;
+
+}
+.input{
+    width: 90%;
+	height: 20px;
+	margin: 10px auto;
+	padding: 2px;
+	border: none;
+	outline: none;
+	border-radius: 0px;
+	background-color: none;
+	border-bottom: 0.5px solid blue;
+	background: none;
+    background: transparent;
+	color: #403131;
+    font-size: 18px;
+}
+.CreateBox1{
+   
+        width: 200px;
+        height: 300px;
+        margin-left: 130%;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+        padding: 40px;
+        margin-top: 20px;             
+}
+.ButtonCreate{
+    border: none;
+    margin-top: 18%;
+    height: 40px;
+    width: 130px;
+    background-color: rgb(22, 22, 135);
+    color: White;
+    border-radius: 20px;
+
+}
+.ShowButton{
+    border: none;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(22, 22, 135);
+    color: White;
+    border-radius: 20px;
+    margin-top: 4%;
+
+}
+.ReadBox{
+    margin-left: 30px;
+    font-size: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+   height: 200px;
+    width: 280px;
+    padding:30px;
+    border-radius: 5%;
+       
+}
+.ReadBox>button{
+    border: none;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(22, 22, 135);
+    color: White;
+    border-radius: 20px;
+    margin-top: 4%;
+    margin-left: 40px;
+    text-align: center;
+    
+}

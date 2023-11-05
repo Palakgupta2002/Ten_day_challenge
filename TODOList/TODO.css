@@ -1,0 +1,21 @@
+nav{
+    width:99.70%;
+    border:2px solid rgb(55, 55, 126);
+    background-color:rgb(61, 61, 153);
+    height:50px;
+}
+.MainNav{
+   display:flex;
+   justify-content:space-between;
+   color:white;
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-right:10px ;
+}
+.NavItem{
+   display:flex;
+   column-gap:20px;
+   text-decoration: underline;
+   font-size: 20px;
+
+}
