@@ -1,0 +1,19 @@
+.nav{
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+display:flex;
+justify-content:space-between;
+padding:20px;
+background-color:lightblue;
+border: 0.1px solid rgb(65, 123, 142);
+
+}
+.NavContent{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.NavContentLogo{
+    font-size: 20px;
+    color: rgb(128, 128, 179);
+    font-weight: bold;
+}
+

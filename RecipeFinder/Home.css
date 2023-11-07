@@ -1,0 +1,161 @@
+.HomeImage {
+  background-image: url('./Assest/HomeImage2.jpg');
+  filter: blur(8px); /* Apply blur to .HomeImage */
+  -webkit-filter: blur(8px);
+  margin-top: 1%;
+  height: 90%;
+  padding-top: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.Upperimage {
+  z-index: 1000;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 200px;
+  height: 100px;
+  position: absolute;
+  top: 20%;
+  left: 15%;
+  background-image: url('./Assest/HomeImage2.jpg');
+  width: 900px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+}
+.SearchBox {
+  position: absolute;
+  margin-top: -10%;
+
+  margin-left: 30%;
+  width: 36%;
+  height: 10%;
+}
+.SearchBox > input {
+  width: 98%;
+  height: 100%;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-left: 30px;
+  border: none;
+  outline: none;
+}
+.RecipeBox {
+  margin-top: 2%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 50px;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.ReceipeCard {
+  margin-top: 20px;
+  padding: 20px;
+  width: 300px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.PlusButton {
+  border: none !important;
+  background: none !important;
+  font-size: 30px;
+  color: black !important;
+  font-weight: 700;
+  outline: none !important;
+  background-color: none !important;
+}
+
+.AfterNav {
+  margin-top: -2%;
+  position: absolute;
+  display: flex;
+  width: 95%;
+  margin-left: 3%;
+  column-gap: 25%;
+}
+.input {
+  width: 90%;
+  height: 20px;
+  margin: 10px auto;
+  padding: 2px;
+  border: none;
+  outline: none;
+  border-radius: 0px;
+  background-color: none;
+  border-bottom: 0.5px solid rgb(225, 225, 237);
+  background: none;
+  background: transparent;
+  color: #403131;
+  font-size: 18px;
+}
+.AddButton {
+  position: absolute;
+}
+.cardButtonBox {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.cardButtonBox > div > button {
+  border: none ;
+  width: 80px;
+  background-color: rgb(207, 207, 224);
+  font-size: 23px;
+  border-radius: 10px;
+  padding: 5px;
+}
+.AddButton{
+    border: none !important;
+    width: 80px;
+    background-color:lightblue;
+    font-size: 23px;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 29px;
+
+}
+form{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
+    rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    padding: 20px;
+    font-size: 19px;
+    font-weight: bold;
+    color: gray;
+}
+.ant-btn css-dev-only-do-not-override-2i2tap ant-btn-primary __web-inspector-hide-shortcut__{
+    visibility: hidden !important;
+}
+.ant-btn css-dev-only-do-not-override-2i2tap ant-btn-primary{
+    visibility: hidden !important;
+    color:red !important;
+}
+.ant-btn css-dev-only-do-not-override-2i2tap ant-btn{
+    visibility: hidden !important;
+
+}
+.ant-modal-content{
+    box-shadow: none !important;
+}
+.ReadBox{
+    
+    
+}
+.ReadBox>img{
+    width: 100%;
+}
+.ClientBox{
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 50px;
+    
+}
+
+
