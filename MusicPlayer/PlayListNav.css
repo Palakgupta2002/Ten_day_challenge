@@ -1,0 +1,24 @@
+.PlaylistArrow{
+background: linear-gradient(90deg, rgb(48, 48, 50) 0%, rgb(44, 42, 42) 100%);
+  
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+background-color: transparent;
+color: white;
+border-radius: 20px;
+padding: 6px;
+border: none;
+}
+.PlaylistArrow:active{
+    background: linear-gradient(90deg, rgb(233, 233, 240) 0rgb(213, 212, 212)42) 100%;
+    
+}
+.PremiumButton{
+    padding: 7px;
+    font-size: 15px;
+    border-radius: 8px;
+    border: none;
+    background: linear-gradient(90deg, rgb(254, 254, 255) 0%, rgb(224, 222, 222) 100%);
+  
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    
+}

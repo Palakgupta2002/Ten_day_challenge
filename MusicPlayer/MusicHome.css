@@ -1,0 +1,47 @@
+.IconStyle{
+    display: flex; 
+    column-gap: 10%; 
+   
+}
+.IconBox{
+    margin-left:5%;
+   height: 100px;
+    width: 300px;
+    margin-top: 8%;
+    padding-left: 20px;
+    padding-top: 12px;
+    background: linear-gradient(90deg, rgba(17,17,18,1) 0%, rgb(29, 27, 27) 100%);
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.CreateLabBox{
+    background: linear-gradient(90deg, rgba(17,17,18,1) 0%, rgb(29, 27, 27) 100%);
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding-left: 20px;
+    padding-top: 15px;
+    margin-left:5%;
+    width: 300px;
+    margin-top: 5%;
+    height: 400px;
+    
+
+}
+.CreateListButton{
+    height: 40px;
+    font-size: 16px;
+    border-radius: 13px;
+    border: none;
+    padding: 13px;
+    font-weight: 600;
+    background-color: white;
+}
+.Createlabcon{
+    background: linear-gradient(90deg, rgb(74, 74, 75) 0%, rgb(71, 69, 69) 100%);
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 20px;
+    margin-right: 14px;
+
+}
+

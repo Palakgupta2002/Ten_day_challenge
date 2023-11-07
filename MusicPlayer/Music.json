@@ -1,0 +1,264 @@
+{
+    "songs": [
+      {
+        "song_name": "Tum Hi Ho",
+        "artist_name": "Arijit Singh",
+        "movie_name": "Aashiqui 2",
+        "song_link": "https://soundcloud.com/dhmaltps/tum-hi-ho-lofi-slowed-reverbed?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+        "image_link": "Bolna.jpg"
+      },
+      {
+        "song_name": "Chaiyya Chaiyya",
+        "artist_name": "Sukhwinder Singh",
+        "movie_name": "Dil Se",
+        "song_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Chaiya.jpg",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Chaiya.jpg"
+      },
+      {
+        "song_name": "Tera Ban Jaunga",
+        "artist_name": "Akhil Sachdeva, Tulsi Kumar",
+        "movie_name": "Kabir Singh",
+        "song_link": "https://wynk.in/u/kjvspC3iX",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TeraBan.jpg"
+      },
+      {
+        "song_name": "Jeene Laga Hoon",
+        "artist_name": "Atif Aslam",
+        "movie_name": "Ramaiya Vastavaiya",
+        "song_link": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU?si=07f64261a26742a8",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/JeeneLaga.jpg"
+      },
+      {
+        "song_name": "Muskurane Ki Wajah Tum Ho",
+        "artist_name": "Arijit Singh",
+        "movie_name": "Citylights",
+        "song_link": "https://wynk.in/u/K0TF7gkAo",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Muskurane.jpg"
+      },
+      {
+        "song_name": "Tum Mile",
+        "artist_name": "Neeraj Shridhar",
+        "movie_name": "Tum Mile",
+        "song_link": "https://wynk.in/u/MeDLSmy5M",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumMile.jpg"
+      },
+      {
+        "song_name": "Raabta",
+        "artist_name": "Arijit Singh, Nikhita Gandhi",
+        "movie_name": "Agent Vinod",
+        "song_link": "https://www.jiosaavn.com/song/raabta-kehte-hain-khuda-ne/HDpYRx53TmU",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Rabta.jpg"
+      },
+      {
+        "song_name": "Gerua",
+        "artist_name": "Arijit Singh, Antara Mitra",
+        "movie_name": "Dilwale",
+        "song_link": "https://wynk.in/u/7C56AqtuU",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Gerua.jpg"
+      },
+      {
+        "song_name": "Tum Jo Aaye",
+        "artist_name": "Rahat Fateh Ali Khan, Tulsi Kumar",
+        "movie_name": "Once Upon a Time in Mumbaai",
+        "song_link": "https://wynk.in/u/eVMGXp2yK",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumJoMile.jpg"
+      },
+      {
+        "song_name": "Agar Tum Saath Ho",
+        "artist_name": "Arijit Singh, Alka Yagnik",
+        "movie_name": "Tamasha",
+        "song_link": "https://wynk.in/u/mQAjujYUl",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/AgarTumSath.jpg"
+      },
+      {
+        "song_name": "Tum Se Hi",
+        "artist_name": "Mohit Chauhan",
+        "movie_name": "Jab We Met",
+        "song_link": "https://wynk.in/u/qkkn57xxX",
+        "image_link": "https://example.com/tum_se_hi_image.jpg"
+      },
+      {
+        "song_name": "Janam Janam",
+        "artist_name": "Arijit Singh, Antara Mitra",
+        "movie_name": "Dilwale",
+        "song_link": "https://www.jiosaavn.com/song/janam-janam/PFgCR0xbBQY",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumSeHi.jpg"
+      },
+      {
+        "song_name": "Sun Saathiya",
+        "artist_name": "Priya Saraiya, Divya Kumar",
+        "movie_name": "ABCD 2",
+        "song_link": "https://wynk.in/u/SIr0uLQt7",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/SunSathiya.jpg"
+      },
+      {
+        "song_name": "Tum Mile Dil Khile",
+        "artist_name": "Kumar Sanu, Alka Yagnik",
+        "movie_name": "Criminal",
+        "song_link": "https://gaana.com/song/tu-mile-dil-khile-5",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumMile.jpg"
+      },
+      {
+        "song_name": "Tum Jo Mil Gaye Ho",
+        "artist_name": "Mohammed Rafi",
+        "movie_name": "Hanste Zakhm",
+        "song_link": "https://gaana.com/song/tum-jo-mil-gaye-ho",
+        "image_link": "https://example.com/tum_jo_mil_gaye_ho_image.jpg"
+      },
+      {
+        "song_name": "Hasi Ban Gaye",
+        "artist_name": "Ami Mishra",
+        "movie_name": "Hamari Adhuri Kahani",
+        "song_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumJoMile.jpg",
+        "image_link": "https://example.com/hasi_ban_gaye_image.jpg"
+      },
+      {
+        "song_name": "Tera Mera Rishta",
+        "artist_name": "Mustafa Zahid",
+        "movie_name": "Awarapan",
+        "song_link": "https://wynk.in/u/U6iFR0rJc",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TeraMeraRishta.jpg"
+      },
+      {
+        "song_name": "Tera Hone Laga Hoon",
+        "artist_name": "Atif Aslam, Alisha Chinai",
+        "movie_name": "Ajab Prem Ki Ghazab Kahani",
+        "song_link": "https://www.jiosaavn.com/song/tera-hone-laga-hoon/NRoKezZ,fFA",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TeraHone Laga.jpg"
+      },
+      {
+        "song_name": "Kabira",
+        "artist_name": "Tochi Raina, Rekha Bhardwaj",
+        "movie_name": "Yeh Jawaani Hai Deewani",
+        "song_link": "https://wynk.in/u/ltX0rctEY",
+        "image_link": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGCBUVExcTExMXFxcYGRoZGhkXGhkZGhkZHxgZGhkcGxsbIysjGxwpHRoZJDUkKCwuMjIyGiM3PDcxOzgxMi4BCwsLDw4PHBERHTEgISgxLjExMTExMjEuMjExMjEuMjIxMTExMTExMTExMTEyMTExMTExMTExMTExMTExMTExMf/AABEIAK0BIwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQMEBQYHAgj/xABBEAACAQIEAwUFBQYEBwEBAAABAhEAAwQSITEFQVEGEyJhcQcygZGhFEJSwfAVU2KTsdEjktLhJDNygqLT4sIW/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAECAwQF/8QAKBEAAgIBBAIBBAIDAAAAAAAAAAECESEDEjFBE1HwYXGBoQTxFJHR/9oADAMBAAIRAxEAPwDVdsO3F/C4o4azgDfARWNzve7UFs2jEoVX3eZ1qs4R7SMXfuC0vCmRjzuXXRZiQJ7n3iNhzrO+2PtBdw3ESlrL/wAu24LLJRiGVipBESoUGZ2ERVDZ7aYi4gW+9llIuEAO1p1LXDcMkAj3gCAQdl21rUVFtXwR3WDqOD7c3/2ja4diMElt7gJzLf7wKMrtt3Yk+AjfnW9rgHZfiZxHaDDXS4f3lBDZvCLNwAExv8967/SSSeArrItFFFZKFFFRsZiVtoXcwo5+pgAdSSaAeZwNzWU49x2Li2wxVSwhlO4yoY+ZPn9KmrizfcwYtqPETEbkmNddIBO0A7g1g+3uJi9K+EBlcdR4AJI36D/t51hu0dIxp5F4lxq61w30UtF1T3ZDtC5LfQGJAI8s1XK9pSzlkhVygFWJ3J8JEjTeJP4etc7x3EGgnOQB0J1MDf466/0qKmNYQCZ1B5wOca8/7CsbmdNqZ2HhPGlXEtazko0FA0E67jTaCD86uxxm1myZ1LRKgHVhMaTpvHzrieF4oQQ5JJClRqAJII1PPrWg4RjFAtPnGeHTN0AUnwzpIyjU7Tzp5KHjTOsYXFK/un1BBBHwOtSK5YvaM2QpzzrpuSBvrz110P8ASSdhwTtIl0GCCFAzHaCZ0+ldFNM5Sg0aSiouGxqOCVaYMHyPQ+dSMwrRg9UUUUAUUUlAFFFJNAE0TSUVLAs0s15opYPVFJNKKoEakpTSVGAooooArK8X7Vtau3LYwzOEKgsHUDxbaET1+Ria1Vcz7WYS4cTdIXwl0aS9pfdQxOY5tAzn48t6zJtLB6v4sITk1Oqrt0dLtvIootDQegoqnlY1ewVtzme2jHqyqT8yK8/s2z+4tf5F/tUuitAiWsBaUhltW1I2IRQR6ECpdFFAFFFFAJWJ9p+JYW8gMKLTtm3Adrlqymg3MXbhrbVgvaqh7sGCQ6smm5ZLtq6ij1yOPjUfBVyZmzxx8NYQIJ01YkjvIjVlYageXn0NMq6Yq7auf4ZdpBtsC1t1AJA94EHcciCVIBAJqmxGBvLhS7oAjQVZTmUldAJBIzAAjrEg8op7GIyEPb8JBzKN4I333E8vgazR0s0mP4HYu3G7k3LUe6jK1xARJ94KWymD7w6GeVZ3HYR0ZgQTBOYqdBqdfTzpcbxDProZIY+HYxtsfSRvANQWvnQTtsalDcPC7EpMdf6VY8OuMzWlUgEHNJGi6zOnPbT6VRO00/hb8acpnpBHOo4FUy9xlm4902sjOw1OWGJB1lQp0BEHf41c8PxF9wFtKLdpPQeLmzEgZm8oPSdAaoV4yUC5styBsdxoNQI0PQxSX+0hYZQuUdCWbpzJj6Co16NKSvJu8LxB0M5iqxrIylj+IgjwgDluTr51YXO0xEjNJjKoAAMz0Emd9OlcsHFSxn85I+J0/OpuEdmMyRMDeZ23P5c6JSRpuLR3rguL720tyImdCQSNeoqdVP2Sw4t4dFAYcyW3J5k9OkcojlVxXZHlYtJS0lAIaSiiowFFFFAFFFFAFLSUUAs0lFFAFFFFAFEUUUAUUUUB7oooqgKKKKAKKKKAKyXbK4j4Y98PAW8H48xnK4MjKYJgRsw1B0Gsrk3tZx5VjZmcsNuxOpzKNSYgDl1qMqKXtPcRbSWrTyoZs4B0zABQSv4spGvMRzBrHT4D5MR6fGp13FaGddAf/Kq4DQ77fWKlmnweQ2lM5qDtSRvVIe8+tKaaNKrUA8zz15V4AmlRdacvWSNeX6ipZaPSYV9NN9jyqz4Zh3LQA7GCQFXNqFzajaIIJ8p9Kn9nbL3LRFsAvsobaSNZ12idz/t0P2ecAKFbrqBlzMIgiWCga7GEUDT8TE7wIsllg13ZpHGHt95OaBoTJA5SeZirSmMLayqFAgDYDkJ0Hyin62cwpKWvJoApKKKgCiiigCiiigCiiioAoooqgKKKKAKKKKAKKKKA90UUVQFFFFAFFFFAeHYASdANTXz97QeJi/iblwbMRlHkBlXTrEV2Xt/ju5wF99ZKZBG8uwQR/mrg+MsTeZrshQs8vGQAIGvMg6idqxJ9G4rFkW5bOUDmVX1g6/lUdjANWBtqv+LeaWaTk2jTSefTkfzqouvJ02oisWa815pQa0ZFNCikmvVoa1Ah/CrJ+BqZiASuQCSY+EH9fOpHCsLAJbc/QVNS6iHr1IHxrm5ZOyjUclx2Ft91kZ1B8YYqRMqImQf1tXbVFcN4FiXvOLVlGLPosiB1+Wm9dwsAhQDuAAY2mK1Bt2Y1UsUO0UUV0OQhoNBpDQHi4DBgweRiY+HOovd3f3qfy/8A7qYa5jiLaj7fifG9uxFq0WuOWa/m8TEgjZ2UAbRFc5So3CNnQms3uV5PjbJ//dJ3d/8AfW/5R/8AZWc4LxTu7tvDXL0jD4aLznUNehWYluWREaSf3oG9ZfE8YvOveZbhS/ffFMEbKy4WwVVRqfCPCCToDlrLmkjS022dN7u9+9t/yz/7KTur371P5Z/11gcDjsVdexaY4h2YviL4s3Aht27pK2UksBlAGfLvBECrj2lcUOHw9q0lxg1x1Uvmh+7SC5zdScoJ/iNN6py6Hje5R9mn7q7+9T+Wf9dL3Vz96v8AL/8AqsS+JxrX7Np7uR8TcS6UQytjDWjmyyN2cmCeeUDYwIjLbDY/E3C72cP/AIdsvcclr8y3iBB0dlUeUU3r0PH9ToKW3nW78lUf3qQs9Z+Vcm4dxy4gt9+5/wCCF+5cDNBe+z3EtWzrqfEx00AnpWl9mOKuv9p712fx22LNm/5jpNxAG2VYURA+VI6ik0kWWi4ps21FFFdTiFFFFAFFFFAe6KSiqBaKSkJoBGcASTA86rbXH8KzZVv2yfX5Vifbj2guWLVizZYq11mdiOaIAMp8izg/9tcav3XvMbhgGZkaeLedNAZ6VGVJH0X7SAh4dfZgGCqrr/1B1Kn5xXBMPiWZgzElbYJM7QdAoHIE8vWuiez3H4jGcNx1i+SwW1Ft2JJZmS4SNemVPrXOsdbe2BaOkhX9ZEg+elRlXBHxzS07TrHQUxFFwzJrwra60B6avJqViMMREag/1pbeEkEzsYI51NyNbGRBVrwnBkkMR6elV+WDWo4W4KD0iszeMF042x5bMD8qj4myxXoJ9wAAH1O5/pVpaipNxAR6VyTPS1Y12Xxxw95LsTlOo6ggg/Qmu04TELcRXQyrAEHyNcPtsOVdF9m+PLI1hvueJPQnxD5mfia66b6OOrHFmyooqLxHGJatvduGERSzHyAnTqa6nnDF4y3bg3LiJmMDMwWT0E7mvOOxtuyneXXVFkDMxgSTAHzNc3wvD7/ELV/H3Lfeuwa1hrMgIoJyM3iIBCyTykox6RC7a8RV7uGwVy8TbsKiXnhjNwDK7ZYliFGhH42rhLWpXX2O8dG5bb+51zN5+fwqit8GwyWP2eXnOHeC471puZy45kqxGschWQ4NxbvuIX8eWK4bC2iFG0pBCqFP4iGeN5CiqLB4+8cXY4hcgvevlUUiRkGW24U8gouZB5gnrOXrL1/RqOi/df8AfRvOI9mcJbt2hcuvaAuGX7wBrrXCuZXJEHMUU6ARl0jWrTG9nbFwOpUqWsfZ/A0ZbWYmFGw15xrGtYHtpxmziOIWke4Vw9lgGOViCwabnhAkzlVJjSDXnD8buNdxvEcxChDYtD+J2AtCP4VBc+ZNTyQTaS+Ivjm0nfxs2/D+B4dsQ2NtXrhLMAVt3CLea2O7gqvvRBGViQNdKkphsLjGXEgi8oS5aGs24ZgH8J+9KxPQ+lcz4Lxk2eF4m2rQ1y6qL1Ae34z/AJUInqam9oSuH4bhcE+j3T3tyde7QljqOviAj+FqLVjXHV/kPSlfPdL7HRuEcFs2INtPEqG2HJzMLecuEn8IJ0FRB2ZsCwlhi5tpd74ktqzZy/jOzLrBnkB6032MwGFC/aMJcZ1dchJJglTqSpAIaZ+dVXtY4u1uwuHtk575IIXfIIBA/wColV8xmrq3FR3NHJKUpUmWydmMO1y5e1bvbtu/EjLntg5YjdSWZiD+Kp/B8PZtNctWmBc3Gu3AWzOGuEmW5gaQJ5AVUY7Ffs7hlsEg3ERLaA7G6R0/CDmaOi1jewmIfD4+33p1xNp3uF/eUEXLoZjvJFsMfJ/KsPUjGSVc/o2tOUot3x+6Op47GW7SF7jqijdmIAk7DzPlSYDG27yC5acMpJEjqDBB6EEEQa5ZexY4lijexN5bODtmFzsEkHZRP32EljyGnStL3trBcPxNxLtu6t65cNoWyCkuBbS2upnKqS3o1Val2+jMtLakuzbhhS1zj2a8PwtxbbLcY4i0e8cCVAzFoEFYZYMEjnXR66QlujZicdsqCiiitGD1RQaSaoAmmrj0mIuhQSTArJ8d40WJRXyDmFgsfU7L9aAxft9ZXbCkMJTvUb+HN3ZWTy9xq5yLMWwCYIJJ6RW37YthSpR2i4xAAjO0zo24yjrtWM4hIOnOpJm4LDZrPZ54LodcRcRWUnu0YxcmRBGxO4235jm323xNu7dBW3kNsd2fMKPCTGg5jTpTfCMZae2lq0STbGmYAXAdTmHJhuYBOm8c2OKIWYsSDm1JHM6yfiaUS8FHeSCajumtWb2ZqNfs60Ih/hV4aJcEgbHcjy9Kn33Uto09agYazB/XSnYg1wlyemLqJFvYdixjWrbh6lVimbQk1LtiKsnaMwVMsbLU89wZdedQbT14xdz5DpNc0snbfSJOAVmdLSFczuEUttLEBZjbUjrXVux3Z5sMGa46vcYR4AQqjfSdTJj5Vzv2f8PF/EpEKLZFw5pk5WDQsc5j4TvtXZxXeEFyebUm3gWsh7W3YYB8sxmTNH4c0j/yCj41r6i8Ty92we2bikZWULnzA6EFeYrUlaaMQdNMouHY9U+z4TCBLmQKtxg3htoFGYyJlydh1PrWMsWEuLxLiF5FfKz27YuLIV5hCVPMTaHzrc8MbD4ZSljC3UDGSEs3NT1JI1qVexttlKNYusrSGU2mIIOhkEa761ylC6tnRT2t12cxxXD7qYbB4a1A+2nO8DViGU28xIkqAQ8SNm3qXwzgIHFbeGFy5cTChbrF9gQA8IOSlymg55q6AeJW4X/h73gjKO4eV0jw6QNNNKROLW8xYWL+YgAnuLgJA2BOXl51jxRvn0b80q49/s5vhbCPgcdj71tWa5cZLeZQSjO+rAHZgz+oyUnEeGknBcNRcpuBb1wxEu8iT5pbVv8ANXSbvEbToUuYe8VaQUbD3GB9QFIINK2Psllc2LxZQQrHD3cyg7gHJIp4ovv52XzP18qkc1xvCZ4v9lAItm8jBR7uTuxcMDb3Qyz616v8bwzcRvYjG2y6Jmt27WRX91sgLBiBoAzQeb+VdCuXMO15cQbF7vUUor9zekKdx7sHnvtJ6mkQ4UXTeGEcXDvc+zPnPnmyzPnTw1w+7Hm9rqiy4OLXdK1hFS24DgKmTcDUrAg6AaidK5dxvi6ftdruJzZLDZURVliU9wQSN3JafSum/tZf3V/+Tc/01HF+x3hu/Z7neERn+zvngDbNlmuk47klZy05bW20YbjjXeJY21hwzpZ7sXsroVZVIhiyndp8IMkeLTnUHg/B7l04+5aL3e7S5atlzmdiTliTz7tSI6OBXTTjVzZu5u5oy5u6MxoYkaxJHxFAxyrmy2LokkkrbjMx3PUnzrD0ot22bWs0qSOTYO6l/CWsDYtzf71rjMZGpcrAjcBAuYttAgHdZna3DWMNew+CIZbKZb14guxuOwyMyhjp4UgRoM56V0zDXBmZ1wjoxmWy2gzQeZDyfjXvFYC1eKvdw6sy+6bioxX6n5VPDjnOP9Gv8jPGM99sr+xuJwl62buEspbAJQxbW23IxK6EHQ6E7dRWhryogQBA+FeprulSPM3bsKKKK0QU1Gv4q2hCu6hm91Z8RjeBuQKpePcdyObFpgH++5gi2CJAA5uRr0G5nY0qWgMzrLM+rOTLtE+825A6TA5RWqBccVxPeH3oUbf3rDds+JJYXJZYG4dyNQojT/u51N4txM21L3FMJr5HUAA+p0rmPGOJl2LMdSZPqaplZK3GOSSZkkzJ3J8zTvEXlZH3o+A/3/KobvND3JVR0mstZNp0qHMFdZHV1MEGR8PWtba4qcbcJuQt2BJAAzqBBYwPe21O8+lY221aPslZUMbmbWCAAR01J59frWjLLPF4NVGgnzmqtbGu2lW+IxKzlJ3qHeWuU8HTTyeVURoKjYipYXSmmSTXBcnpfFDVq7G4qVaeaTCYJrjrbRczMQoUcyTArouF9l6i14sQ4vEfdCm2p6QRmYecj0raW45t7eTAh6k2EBkk1P4v2TxmHJLWS6D79r/EHxAGYfEAU3wPg2JvsEt2X6FmUqi+rH+m/kabBvRvfZvwBbVtcSzEvcUwo91VJ08y0D0En1raiofCcJ3Nm3ZBnIoWdpMan4mTUwV2So4N27FopJpCapBaSiaQ1ALRSUUATRVZxrjVrDd33xI71xbSFJljyMbVFw3ajDul64rMUsaO2UxOui/i5bdR1qWjcdKcluSdfEXtFUFntZhmwz4oM3d22CN4SGDEqB4d/vrTWD7ZYR0uOrt/hAM6lGDBSQAQOYkjbqKm6Ps14NXOHh1x2aSkrNYztthLeTMz+NEuLCMfA4lSY29Kv8JiUuoty2wZHAZWHMESDVTT4ZJ6U4JOSaTH6KSaJqnMWikmiaAWikmiaAWivM0UBwrh2JvXVa4xYlyWJPMsSSaveFcTNs5Wkjpz+HnVZiuN2bcW1XMR4QqwAOgqRhuPW1stcXuWuqBlQuoCljCyDEn9CtN0ErKD2mcZuXLq2oKIqhskFSSfvMDv5dBPMmPPYDhig/ar0QARbDR6NcM7RqBPmehpH4S9+732JlizGUtglidYHIAfEeoqv4pjCFNhLRKAgkMXGUfgZUiAPwn60v2K9GeCcp20oKGrXDNcutlt2Mx/CgPhA0naFUdTAHM08+AyFFuhg1wqLaoEuZixjUh4GpG01DVIg8C4ZcxN5bFlSzt8gBuSeQq4wZNjFLbJhrTMGGYOoIEEqw0ZTtt/TWztcefAo+HtWUVbiE94MwukFnQEtmysMyHTKNNoPirPcOs5n7zMBlMFSRJmfp50TdkklRc8V4oCfAB68hSwrZTbJYkAt68x5VVY4SZ0HlvVzgMZbtEWwgMgQ0xJjXlSatF03TPbWCBtTXddalXuIKWiI1iZEfM6V1Tsh2aSwBcuqGvHWdxb8l5T1Pw9fOoNs9EtRRRU+zLs8U/4q6hVoy21YQQD7zwdp2HlPUV0Ckpa7xVKjzyludgTXgmvRrwTVMhNegdKaJpQ+lAe5pJrzmpCayD1NE15BomqD1NE15mkzVC0Yv2s4Uvbw5kKi3gXYuiZVIiZYiTvAEms7aW9+zrmFtojK2IhbiXLIFxZzHUv72ZV0OuVl00Naf2pWLb4dGuM65LgKstvvFBIIJuLoAsHefntWQTvbuGs5MOMqYxTmtWmUOuXxOVUaR10A0EaVxlyz6/8Rvwx4w7z+vue34XiFw+PsBbbI3cMCly3kV1vLmXxMCsgn3o1Qj1ZwWAvWrN/vlS2t6yi2+9u2me4wNuMj5vcgExsBlGsTUbHcKxebFXEtXO7a+6MgtvLJ3huW3UR4lzKNeU+de8bhmtXM2Issc2FsLYe5bZ0UrbthkZdIbwuI3Umec1jhfPqelO3e5O3+bVfUnY/gl9zbClQRgbawLlvxFQcyRm1Uidfd03iuhdjGH2OyAuXKoUqHV4ZdD4lJBk678655h8Li7l6y9pWtN9lK5xZOQKpuDIBEAssAc9Qa2HsxsumARbltrbZ7hyupVgC2mjAHatwxI8n81t6ai5J01hfk1makmmGem1vgzrtv5V3PkkuaM9VfE8aUAyxJPMxpB/Xwmqi3xdiQ0kgecbQT68p6bmpuBq89GeqXDcbR+g1MagZh/DmgkzpyqdZxIbY6jcbEfOrYJmeio+eilg+cr8SWGh8q8YC4oeYIfWHDQV81/iiRJ5U7bszrKj1NMpbHeqJ3IHwOh+hrQNavFWB7z7QxEcnKsG02A5H686ynH8SMwKKg5MVBGchjDNEeL3h6GrbhuNtJmzBHB0P3sgGsgEzmPwrP8Yxi3GIRQqTI+sfDX6ChCNiMS0blQQBlBaDr96Tr1+NehxK6BC37oB+6LlwD5TFLa4hc0JYHKuQSq+7sAdNtPWmbgB1gc9tKho9viHcQzFh/FqfTMdY8pirDhWBa6WKDMyJmKg+I8pAg5uWmnlrpVSDVr2d4k1m5IPhMBvyqoh4tkSJp6ziFBIfkdPKKuOP4FCDfQgEkEgkQSdNPM9OtZ7EpzyEdd6oPfEbysQw16jlHTWu0+yrtGcTY7q403bQAJO729kbzPI/A864aSsc60PZDiFzCYi3iFVio94QfEh0YfL6gVkH0Uppaj4W8HVXXVWAZT1BEg/Kn81LAteGNKWpt2qAbuPSo1NGnEqWU9TXktSlqaLVhstDoalzUzmoL1GyjpakzU0XryXpYHs1Ufaq7i1VPscEnMDKhoYxkOugXeTymrUvUfGY63aE3bqWxBMuyroN9zrFLNRdPiyruNjnvXFV+6tzCsUtkRlQswMExmzgAieZOoCwuM43iYe79ms5lBTu+8FoZgul0EzoWOqnoZp3iHbCzbti4qPcBd0GWNcu7AzBXbzgzFRcP27sZouq1pfD4mkjxKGUmBEGeRJ8oBi7jBf9nb19rM4kEXMzSCFGmmWMukfM76mrEvWX/wD7LDGSGldIYTlKnSTpI10gAnT1qdwzjKXWa3EMBmG5DWyfCwMDXYMp1B6gqxXZSyxeIVFZ3ZVVQWLMQqqBzYnQDzrj/ZjEXLGNv3rd7Mnd3FuPoUuXZDKYnxwzFtJIBjmJvPbXinFm1bB8D5ywndlKZZHSC/1rHez+5dvG5hkdcottcAfZYKZgpGq5vAD6DzqtOrQ+h0HG8bF1WDqAx1SCSY5zOqsAPd/iOmk1GHEFGW2WBQsPEdxJUMTEkARtOyjyqLe4BdyM8uVRimUtLkbeGZkHNpsddjTFjhIuIbiMttkaFRiqkmBlLgglQIOYETow8OsZWWC3xXEbTAWrNtGYsAMhYmN/EZgy38RitZwbC90kFpJhjoAA0DNHPfqTVB2Iu23tZ4HeiVfQ5gNCFkjUactJnnUvifaBLZZT7wByqQRLA+uxka6bHflq6IaLvKKyljGYkqCcQokTADaTrGimkpYo5D9nI+8Pr/ancOoQMZBMfL9Gm7iLPhzR/Fv9KacRI2rsZLTCY5rlvKbKuqAKBnKtooBiEPr8ap8a4fZAkEiBrJmSSTrOw+HKpHDXQaOWHmDp9KZxeUXIXVQfmNKXZKIltB0py1ZBMEmPrT1q0GMTA3JPIc/pXm9BMiY5TuR1NSiljc4dbCMcjFsi/fVQHJaZLaaALI13qqbDspE86enN/wAwsQNgDH5GkVg7R8gW19ATp84qgsMFxLKuV/Ev1HQ+cHWpWNQke/8A0+IqgV6tcBcDsyXIJXbplmIoyCW+F7FbgB9Ks7eGuRreHyFMWsAmxB36mpQwaDYH5msFOo+zTHs2GFp2BNo5fPIZKz9R8K1efzrl3YbG27LuC2Uuo67KSSPWDp6GrrifadxpbCg9fgfxf71lsqNmz021zzrmuJ47iAyuXYSDGYeGCJM9NDvoelXXZnihOHe5cuBsrGTLAA5QcuZzrrppWbKa4OOteu8Fc04l2uuyrIVCmdNDzO+siqbGcdvXTBuMDsBymRE8o16ch6g2Q64+OtyRnWVAJ1GgOxPSaFxCnUEEdQQRXIDh7gY5GZgZUG1mJLAyV8xHi3rSr2ht2sGoW6BcggKWFxl1MBoOmkbCOgqfcpuWvAa1GxHFrSCXuoo82H6jUVyTiPGbjvnW++qgHU6ae6QSZHrzowOHe8ZOcwpMgFpyiIAj8RXeYkUYOpYXj9m5kyOCXkKIM6TMx7ux3ipd7FqgLMyqBuWIAHxNcv4Xhu4u279xVa2HA7wgseRhVGpYeEE66k84pjtRx37Q792lxrZUBCASPWI2PTyFMLkZOk4zj9i3o91R8yPmNNtazPb/AIU15DetB73IorDw+4sqoUknrzgHaue2sBebQWbp5Aw0Lttt4fLlWm4QuMsNbyXWNsE51bJszDMQM5DPAmW22qNx7ZpRl6KfgPD8Qr91aUB2cgoWXQqxDZtTsVGhGog6jWn24PfVyt3PbGuYw0MMlzUhQSxjMJGoB2J0q/wlkLi7l50JT3rYBBhyW7wAT7p036kRtVf2kd7mb3xLlhMeGREDKTA1Ig8jvyE3R6ZdkvRX4LH28NeAKm/lBKqSAqDdPCVaSF8UCQJXeJrQ8U7S2rtuMMGt3UHguBVz5FgMqKD4tGiG8IBJ1IAOHtcDuNcHjUaz7tw+fJQAAJ58qdF8LaFzMGnLCEwVBBKDQhlYglzGnjbfStp3wTbXI1x/F3XdxfuObzKJzLBZACUUKqDLr92TJE6zpE7I8TbC4m3iF91TDiJm22jiOZjUeaiodxnuE52LtzLbiANZPly5RVhgsPKsQwJJOhjMTyPnO3XWtojZ3a1eDAMpBVgCCNiCNCPURUfG4W1c1vW7TxGrqpjURqR1A+QrGdk+0ZXD27WRSbYCDUjQbT8P6U5xTFtfInwaR4XO3odKxKaToqi2TMJxFsN32Hze7ca5aZizTauajWZJB0kmqLiuJa44LHOx1lhvsBpqOXKpNvDEMrBzIUrvupiR5aiaLlq3mILODounImI1jzHPnWJTR0hoyliKsVeL3BoLgEclUAD01opxeGqPvP8AQ/lRTeZ2MwdrGMNIHyBpp3zSSY+FOviCTtvUa7oa9JxPDNXgg6TzpGoutqB5f2/tQDoOnrXsxEnfpXhBoPhQ1UC2239KYU1Kw+HzSZjQnboCfyqHb3oB4CpvBkm83mCf/IVFwi5mUHmwHzIFaLs5hVFsXYlmkE+QaI+k0IS7Fv50t1461NS2Kg4rQn51mWCrJ4s4plYHfKZGvrMdd+dWVrEK8llYxI3j0Yf71R3GP69Jr1bxBRtNoEjrNcW2dUkaS7jkzA93poCpkhgDoDJmN9Aees1Axb55k3IJkqjZF+QEfLoK8XdpGm++vOKim4f1+vKubt9mqj6BsPbG1s/F2NOYK4bZlQomOp223MyOtR2uE09ZteZ2n67elEn7NY9E5sdcJLT4iIJ6iCIPlBI+NRwJI8KTtJUE77SQaMmw6xtpGnl6V5ywJ8tqbRZKtMQZBAPkq/2/WlOC44J8Z1J+dN2U1/Xma9g7f3PI/wC1NqI2NXHb8VNux5u3zP8ASaeuKDJjb+1R2WJ8o/pNHFFtnkn+I/Oa8Mi8yT+tacjX9dSK8umo8zGw6TU2obmMm1b6H5n1oW0nIfqa8BwY8O8bmd4/LSpOHtAkDmTv016c6DI5ZuKqkjLLTM/dQGHnTmR8lIggwcuVFy5cPdz3klcxMiToAT5RWr47bAFq0BAdmBPMKrBYHSdz50+eGIwkgaDkANAu08q6WonOnIxhwZAgRvDADQfH4D6Vb4HBle6Y7s3nsIy/XNU3AYJe+Nvo3vCQ0cwIMaxzBqy4phEtorKI8QMCAJKk8h5VvcrSJTpsjcGtZWugaePaPMxVnbUnn8OdR+Hp/jXVGmp19GA/Orc2AAfjWJ1ZqPBDUNMSPqP0KYfEnVMwEuhy5mkwpERHPPPnkWSOVoE3PQ/3/tXkYRSSNdd/E3M9J0rLVnp0NZadtqxtWf8AD9f9qKnLa8/pRVOFn//Z"
+      },
+      {
+        "song_name": "Tum Hi Ho Bandhu",
+        "artist_name": "Neeraj Shridhar, Kavita Seth",
+        "movie_name": "Cocktail",
+        "song_link": "https://gaana.com/song/tum-hi-ho-bandhu-9",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumHiHoBan.jpg"
+      },
+      {
+        "song_name": "Tum Hi Ho Bandhu (Remix)",
+        "artist_name": "Neeraj Shridhar, Kavita Seth",
+        "movie_name": "Cocktail",
+        "song_link": "https://gaana.com/song/tum-hi-ho-bandhu-9",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumHiHoBan.jpg"
+      },
+      {
+        "song_name": "Bolna",
+        "artist_name": "Arijit Singh, Asees Kaur",
+        "movie_name": "Kapoor & Sons",
+        "song_link": "https://wynk.in/u/VUWRQ48oa",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Bolna.jpg"
+      },
+      {
+        "song_name": "Kabhi Kabhi Aditi",
+        "artist_name": "Benny Dayal",
+        "movie_name": "Jaane Tu Ya Jaane Na",
+        "song_link": "https://www.jiosaavn.com/song/kabhi-kabhi-aditi/RiYHAT5nfkk",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Aditi.jpg"
+      },
+      {
+        "song_name": "Zehnaseeb",
+        "artist_name": "Shekhar Ravjiani, Chinmayi Sripada",
+        "movie_name": "Hasee Toh Phasee",
+        "song_link": "https://wynk.in/u/HuXXZLcOS",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Zehanaseeb.jpg"
+      },
+      {
+        "song_name": "Raabta (Female)",
+        "artist_name": "Arijit Singh, Shreya Ghoshal",
+        "movie_name": "Agent Vinod",
+        "song_link": "https://www.jiosaavn.com/song/raabta-kehte-hain-khuda-ne/QFo8XzMDWgo",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Rabta1.jpg"
+      },
+      {
+        "song_name": "Galliyan",
+        "artist_name": "Ankit Tiwari",
+        "movie_name": "Ek Villain",
+        "song_link": "https://www.jiosaavn.com/song/galliyan/NCMTVRdpA0o",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Galliyaan.jpg"
+      },
+      {
+        "song_name": "Tum Mile (Love Reprise)",
+        "artist_name": "Javed Ali",
+        "movie_name": "Tum Mile",
+        "song_link": "https://gaana.com/song/tu-mile-dil-khile-5",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TumMile.jpg"
+      },
+      {
+        "song_name": "Bol Do Na Zara",
+        "artist_name": "Armaan Malik",
+        "movie_name": "Azhar",
+        "song_link": "https://wynk.in/u/s6RSHA49i",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Bolna.jpg"
+      },
+      {
+        "song_name": "Tera Ghata",
+        "artist_name": "Gajendra Verma",
+        "movie_name": "Single",
+        "song_link": "https://gaana.com/song/tera-ghata",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TeraGhata.jpg"
+      },
+      {
+        "song_name": "Lambiyaan Si Judaiyaan",
+        "artist_name": "Arijit Singh",
+        "movie_name": "Raabta",
+        "song_link": "https://wynk.in/u/4C1qzEpzZ",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Lambiyaan.jpg"
+      },
+      {
+        "song_name": "Tera Zikr",
+        "artist_name": "Darshan Raval",
+        "movie_name": "Single",
+        "song_link": "https://wynk.in/u/8ehk0r3e0",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TeraZikr.jpg"
+      },
+      {
+        "song_name": "Bekhayali",
+        "artist_name": "Arijit Singh",
+        "movie_name": "Kabir Singh",
+        "song_link": "https://wynk.in/u/TrUMSEdsP",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Bekhayali.jpg"
+      },
+      {
+        "song_name": "Pal",
+        "artist_name": "Arijit Singh, Shreya Ghoshal",
+        "movie_name": "Jalebi",
+        "song_link": "https://wynk.in/u/vZZjSttEK",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Pal.jpg"
+      },
+      {
+        "song_name": "Duniyaa",
+        "artist_name": "Akhil, Dhvani Bhanushali",
+        "movie_name": "Luka Chuppi",
+        "song_link": "https://www.jiosaavn.com/song/duniyaa-from-luka-chuppi/RlkSdwF4b1w",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Duniya.jpg"
+      },
+      {
+        "song_name": "Vaaste",
+        "artist_name": "Dhvani Bhanushali, Nikhil D'Souza",
+        "movie_name": "Single",
+        "song_link": "https://www.jiosaavn.com/song/vaaste/Nyc0QDpvf1c",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Vaste.jpg"
+      },
+      {
+        "song_name": "Tujhe Kitna Chahne Lage",
+        "artist_name": "Arijit Singh",
+        "movie_name": "Kabir Singh",
+        "song_link": "https://wynk.in/u/xFWdNJfw7",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/TujheKitana.jpg"
+      },
+      {
+        "song_name": "Bekhayali (Arijit Singh Version)",
+        "artist_name": "Arijit Singh",
+        "movie_name": "Kabir Singh",
+        "song_link": "https://wynk.in/u/TrUMSEdsP",
+        "image_link": "wheather-web/src/Ten_day_challenge/MusicPlayer/Assest/Bekhayali1.jpg"
+      }]
+}
+      
+  
