@@ -1,0 +1,44 @@
+.ProductCard{
+   border-radius: 13px;
+    width: 250px;
+    height: fit-content;
+  margin: 20px;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  padding: 20px;
+
+}
+.ProductPage{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+   
+}
+.FlowerBtn>button{
+    border: none;
+    outline: none;
+    width: fit-content;
+    padding: 13px;
+    font-size: 15px;
+    font:500 ;
+    color: white;
+    background-color: rgb(255, 56, 215);
+    border-radius: 15px;
+}
+.ant-modal-content{
+    box-shadow: none !important;
+}
+.Cartpage{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.cartbtn{
+    border: none;
+    outline: none;
+    width: fit-content;
+    padding: 13px;
+    font-size: 15px;
+    font:500 ;
+    color: white;
+    background-color: rgb(255, 56, 215);
+    border-radius: 15px;
+}

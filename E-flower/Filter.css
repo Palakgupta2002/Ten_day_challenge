@@ -1,0 +1,8 @@
+.ProductBox{
+   margin-left:10%;
+   padding-left:15px;
+   padding-bottom:30px;
+   box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+   border-radius: 9px;
+   padding-top: 20px;
+}
