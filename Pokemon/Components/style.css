@@ -1,70 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #FCEEC8;
+}
 .container{
     width: 90%;
-    margin:auto;
-    padding-top: 10%;
+    margin: auto;
+    padding-top: 100px;
     display: flex;
 }
-.left-container,.right-container{
+.left-content,.right-content{
     flex-basis: 50%;
 }
-.left-container{
+.left-content{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,0.5fr));
-    grid-gap: 2rem;
+    grid-gap:2rem;
 }
-.right-container{
+.card{
+    width: 300px;
+    background-color:#9EDEF9;
+    border-radius: 1rem;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+    padding: 0 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.right-content{
     width: 50%;
     text-align: center;
     color: black;
     position: fixed;
-    top: 100px;
+    top:100px;
     right: 10px;
 }
-.right-container img{
-    margin: 2rem;
+.right-content img{
+    margin: 1.5rem;
+    height: 160px;
 }
-.card{
-    width: 300px;
-    background-color: #9edef9;
-    border-radius: 1rem;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-    align-items: center;
-    display: flex;
-    padding: 0 1.5rem;
-    justify-content: space-between;
-    box-sizing: border-box;
-}
-.right-container h1{
+.right-content h1{
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
 }
 .abilities{
-    width:30%;
+    width: 70%;
     margin: auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     margin-top: 1rem;
-    column-gap: 15%;
 }
 .abilities .group{
-    background-color: #c2132b;
+    background-color: #b74555;
     color: white;
-    padding: 0.004rem;
+    padding: 0.5rem;
     font-size: 12px;
     border-radius: 8px;
-    width: 100px;
+    margin-left: 1rem;
 }
 .base-stat{
     margin-top: 2rem;
 }
-.btn-grp{
+.btn-group{
     display: flex;
 }
-.btn-grp button{
-    border: none;
+.btn-group button{
     outline: none;
+    border: none;
     width: 150px;
     padding: 0.3rem 0;
     margin: 1rem;
