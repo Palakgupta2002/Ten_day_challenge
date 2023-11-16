@@ -46,6 +46,7 @@
 }
 .height{
     width: fit-content;
-    border: 2px solid red;
+    border-radius: 20px;
     background-color:rgb(70, 70, 74) ;
+    padding: 4%;
 }
