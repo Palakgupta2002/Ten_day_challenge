@@ -1,0 +1,51 @@
+.calculatorCont{
+   
+    width: 100%;
+    height: fit-content;
+    background-color:#7cd831 ;
+    padding-left: 8%;
+    border-radius: 20px;
+    padding-right: 8%;
+    
+}
+.Gender{
+    width: 100%;
+    border-radius: 20px;
+    padding: 20%;
+    background-color: rgb(70, 70, 74);
+}
+.GenderBtn>div>button{
+   
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    font-size: 16px;
+    margin-top: 10%;
+
+}
+.GenderBtn>div>button:hover{
+    background-color: #7cd831;
+}
+.Width{
+    width: 100%;
+    border-radius: 20px;
+    padding: 10%;
+    background-color: rgb(70, 70, 74);
+    margin-top: 20%;
+    padding: 20%;
+
+}
+.Width>input{
+   
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+   
+}
+.height{
+    width: fit-content;
+    border: 2px solid red;
+    background-color:rgb(70, 70, 74) ;
+}
