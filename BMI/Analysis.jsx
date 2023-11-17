@@ -1,9 +1,16 @@
 import React, { useState, useEffect } from 'react';
+import "./Analysis.css"
 
 const Analysis = () => {
   const [nutritionData, setNutritionData] = useState(null);
+  const [foodItem,setsearch]=useState("Fruits");
   const API_KEY = 'rXYzH55IQ9cOUf13CKmluA==ewkVf7OltEReWIVq';
-  const foodItem = 'tomato'; // Replace with the food you want nutrition info for
+  const handlechange=(e)=>{
+    const data=e.target.value
+    setsearch(data)
+    
+
+  }
 
   useEffect(() => {
     const fetchNutritionData = async () => {
@@ -34,20 +41,26 @@ const Analysis = () => {
  // Existing code remains the same
 
 return (
-    <div>
+    <div className='main'>
       <h2>Check What do You eat is healthy or not</h2>
-      <input/>
+      <input className='search' type='text' onChange={handlechange} placeholder='Search here'/>
       {nutritionData && nutritionData.items && nutritionData.items.length > 0 ? (
-        <div>
-          {Object.keys(nutritionData.items[0]).map((key, index) => (
-            <p key={index}>
-              {key}: {nutritionData.items[0][key]}
-            </p>
-          ))}
-        </div>
-      ) : (
-        <p>No data available or error occurred.</p>
-      )}
+  <div className='ingredients'>
+    {Object.keys(nutritionData.items[0]).map((key, index) => {
+      // Function to capitalize the first letter of each word and remove underscores
+      const formattedKey = key.replace(/_/g, ' ').replace(/\b\w/g, (char) => char.toUpperCase());
+
+      return (
+        <p className='itemdiv' key={index}>
+          {formattedKey}: {nutritionData.items[0][key]}
+        </p>
+      );
+    })}
+  </div>
+) : (
+  <p>No data available or error occurred.</p>
+)}
+
     </div>
   );
   

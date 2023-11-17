@@ -1,16 +1,17 @@
 .calculatorCont{
-   
+   padding-top: 8%;
     width: 100%;
     height: fit-content;
     background-color:#7cd831 ;
     padding-left: 8%;
-    border-radius: 20px;
+    border-radius: 8px;
     padding-right: 8%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     
 }
 .Gender{
     width: 100%;
-    border-radius: 20px;
+    border-radius: 8px;
     padding: 20%;
     background-color: rgb(70, 70, 74);
 }
@@ -19,7 +20,7 @@
     width: 100%;
     border: none;
     outline: none;
-    border-radius: 40px;
+    border-radius: 8px;
     font-size: 16px;
     margin-top: 10%;
 
@@ -29,7 +30,7 @@
 }
 .Width{
     width: 100%;
-    border-radius: 20px;
+    border-radius: 8px;
     padding: 10%;
     background-color: rgb(70, 70, 74);
     margin-top: 20%;
@@ -41,12 +42,51 @@
     height: 30px;
     border: none;
     outline: none;
-    border-radius: 10px;
+    border-radius: 8px;
    
+   
+}
+.weightinput{
+    border: 2px solid blue;
+    margin-top: 10px;
+    border: 2px solid red;
+    border: none;
+    outline:none;
+    width: 160px;
+    height: 40px;
+    border-radius: 8px;
+    padding-left: 10px;
+    
 }
 .height{
     width: fit-content;
-    border-radius: 20px;
+    border-radius: 8px;
     background-color:rgb(70, 70, 74) ;
     padding: 4%;
+}
+.height>input{
+    border: 2px solid red;
+    border: none;
+    outline:none;
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.Calculatebtn{
+    border: none;
+    outline: none;
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 50%;
+    height: 50px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color:#4fa30a ;
+    color: white;
+}
+.heading{
+    margin-bottom: 3%;
+    margin-left: 35%;
 }
